@@ -1,7 +1,6 @@
 ### 数据库论文阅读目录
 
-该仓库将会介绍一些数据库领域的经典论文，包括SIGMOD、VLDB、ICDE、FAST、ATC中的best paper，分组了部分论文，根据自己的理解，可能不全面。
-
+该仓库将会介绍一些数据库领域的经典论文，包括SIGMOD、VLDB、ICDE、FAST、ATC中的best paper，分组了部分论文，根据自己的理解，可能不全面。对于一些比较老的基础文章，请参见仓库： https://github.com/JunpengCode/databaseology
 #### **论文介绍**
 
 * Bloom Filter
